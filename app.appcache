@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# 2018-02-23:v2
+
+# Explicitly cached 
+CACHE:
+index.html
+assets/css/style.css
+assets/js/scripts.js
+assets/js/libs/jquery.min.js
+images/logo.svg
+images/loader.svg
+images/favicon.png
