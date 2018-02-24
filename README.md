@@ -4,6 +4,11 @@ Weather Now é um aplicativo web teste para exibição de dados climáticos de t
 
 [http://weather.testebox.com.br/](http://weather.testebox.com.br/)
 
+## Requisitos
+
+  - HTML5
+  - JQuery
+
 ![](https://raw.github.com/thigas88/weathernow/master/images/screen1.png)
 
 
