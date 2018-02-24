@@ -47,7 +47,7 @@ function getWeatherCidade(cidade) {
     type: "GET",
     dataType: "json",
     timeout: 10000,
-    url: "//api.openweathermap.org/data/2.5/weather?id="+ cidade +"&appid="+ api_key+"&units=metric", 
+    url: "http://api.openweathermap.org/data/2.5/weather?id="+ cidade +"&appid="+ api_key+"&units=metric", 
     beforeSend: function() {
         //
     },
